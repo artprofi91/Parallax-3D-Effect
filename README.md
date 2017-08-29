@@ -1,6 +1,8 @@
 # Parallax-3D-Effect
 Parallax 3D Effect
 
+![1](https://user-images.githubusercontent.com/28790452/29835114-92ed6eda-8cb6-11e7-8dce-5e58e7d4e2e8.gif)
+
 Animated effects in web design are the must-have trend of 2017. One of the most popular - and coolest - options is three-dimensional parallax.
  
 This technique involves multiple layers all moving at different speeds and in different directions with respect to one central point, creating a hover-activated 3D effect. It’s a way to foster engagement, add interest or help tell a story to encourage clicks or funnel users to a specific action.
